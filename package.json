@@ -19,7 +19,7 @@
     "@types/react-stickynode": "^3.0.0",
     "@types/redux-devtools-extension": "^2.13.2",
     "@types/styled-components": "^5.1.0",
-    "@types/styled-react-modal": "^1.2.0",
+    "@types/styled-react-modal": "1.2.2",
     "emoji-picker-react": "^3.2.1",
     "install": "^0.13.0",
     "pure-react-carousel": "^1.27.1",
