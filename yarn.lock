@@ -9419,10 +9419,15 @@ react-app-rewired@^2.1.6:
   dependencies:
     semver "^5.6.0"
 
-react-collapsible@*, react-collapsible@^2.8.0:
+react-collapsible@*:
   version "2.8.0"
   resolved "https://registry.yarnpkg.com/react-collapsible/-/react-collapsible-2.8.0.tgz#dce2ff7703d4456c5bb70cc1b53d3f80acf76526"
   integrity sha512-QTxGyp4iL8N57FcU1RGt4wD7vqOTRYAHNukxtSeVMkZ+/d1WNWXRIakzhYhC/5TDERihPdp1IvKIJlrLLPyQ/A==
+
+react-collapsible@2.9.0:
+  version "2.9.0"
+  resolved "https://registry.yarnpkg.com/react-collapsible/-/react-collapsible-2.9.0.tgz#43eba5d0fe37a7a63d51b22b1c07c07acc131a25"
+  integrity sha512-H+HJREPlVqPVajFbPQF7TTlUTUNkt/sGOJnlfxlWHu6SJKIol8xw38OryPHJDcXxD5ArzZgBqwS8o54C432S2Q==
 
 react-dev-utils@^10.2.1:
   version "10.2.1"
